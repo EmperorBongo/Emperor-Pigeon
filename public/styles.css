@@ -1,0 +1,14 @@
+body {
+    background-color: #000080; /* This is a darker shade of blue */
+    color: white;
+    font-family: 'Courier New', Courier, monospace; /* This is a blocky font */
+}
+
+header {
+    background-color: gold;
+}
+
+h1 {
+    color: red;
+    font-family: 'Chiller', cursive; /* This is a cool, somewhat spooky font */
+}
